@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50)
+![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile)
 
 ### 📊 Моя статистика GitHub:
 
