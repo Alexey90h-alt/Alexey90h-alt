@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
-</p>
+![My Banner](banner.png)
 
 ### 📊 Моя статистика GitHub:
 
