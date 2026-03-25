@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50)
+
 ### 📊 Моя статистика GitHub:
 
 ![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=radical)
