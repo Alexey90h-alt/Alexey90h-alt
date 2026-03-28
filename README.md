@@ -2,13 +2,9 @@
 
 ### 📊 Моя статистика GitHub:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=radical&cache_seconds=1800" alt="Alexey GitHub stats" />
-</p>
+![Alexey GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey90h-alt&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey90h-alt&layout=compact&theme=radical)
 
 ### 📫 Как со мной связаться:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexeyl_l)
