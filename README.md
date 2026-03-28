@@ -1,4 +1,4 @@
-![My Banner](banner.png.jpg)
+![My Banner](banner.png)
 
 ### 📊 Моя статистика GitHub:
 
