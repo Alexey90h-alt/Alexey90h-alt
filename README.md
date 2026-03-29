@@ -2,8 +2,6 @@
 
 ### 📊 Моя статистика GitHub:
 
-### 📊 Моя статистика GitHub:
-
 <table>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=tokyonight&count_private=true" alt="Alexey GitHub stats" width="400" /></td>
