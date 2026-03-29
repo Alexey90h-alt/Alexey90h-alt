@@ -2,12 +2,8 @@
 
 ### 📊 Моя статистика GitHub:
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=tokyonight&count_private=true" alt="Alexey GitHub stats" width="400" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey90h-alt&layout=compact&theme=tokyonight" alt="Most Used Languages" width="300" /></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey90h-alt&layout=compact&theme=radical" alt="Top Languages" width="300" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexey90h-alt&theme=react-dark&bg_color=1a1b27&hide_border=true)
 
