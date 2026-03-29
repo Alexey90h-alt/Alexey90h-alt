@@ -2,14 +2,16 @@
 
 ### 📊 Моя статистика GitHub:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Alexey GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey90h-alt&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="180px" />
-</p>
+### 📊 Моя статистика GitHub:
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexey90h-alt&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexey90h-alt&show_icons=true&theme=tokyonight&count_private=true" alt="Alexey GitHub stats" width="400" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey90h-alt&layout=compact&theme=tokyonight" alt="Most Used Languages" width="300" /></td>
+  </tr>
+</table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexey90h-alt&theme=react-dark&bg_color=1a1b27&hide_border=true)
 
 ### 📫 Как со мной связаться:
 <p align="left">
